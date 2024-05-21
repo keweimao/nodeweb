@@ -11,5 +11,9 @@
     "url": "nodeweb"
   },
   "author": "Weimao Ke",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "3.6"
+  }
 }
