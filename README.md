@@ -1,4 +1,3 @@
 # nodeweb
-nodejs for web app
 
-hello
+Example web app based on Node.js. 
