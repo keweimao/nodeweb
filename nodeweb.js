@@ -1,5 +1,5 @@
 // import { username, password, authDatabase, databaseName } from './auth.js'; 
-const { username, password, authDatabase, databaseName } = require('./auth.js');
+const { username, password, authDatabase, databaseName } = require('./auth_example.js');
 
 // Express setup
 var express = require('express');
